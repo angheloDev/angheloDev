@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT student focused on building practical web, app, and backend projects.<br>Currently working with JavaScript, Typescript, Node, Express, and GraphQL prioritizing clean code and fast API's.<br>Looking for remote junior roles, freelance work or internships.
+IT student focused on building practical web, app, and backend projects.<br>Currently working with JavaScript, Typescript, React, Tailwind, Node, Express, and GraphQL prioritizing clean code and fast API's.<br>Looking for remote junior roles, freelance work or internships.
 
 
 ## 🌐 Socials:
