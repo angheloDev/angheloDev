@@ -120,7 +120,7 @@ Thinking beyond features deployments, environments, and long-term health.
 
 **`Let's go scale your business together.`**
 
-[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo@example.com)
+[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelogalleros95@gmail.com)
 
 </div>
 
