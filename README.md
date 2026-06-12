@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/angelogalleros95@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:angelogalleros95@gmail.com)
+[![Email](https://img.shields.io/badge/anghelodev2021@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:anghelodev2021@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/anghelo.tsx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/angelo-galleros-8467a83a8)
 
@@ -120,7 +120,7 @@ Thinking beyond features deployments, environments, and long-term health.
 
 **`Let's go scale your business together.`**
 
-[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelogalleros95@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anghelodev2021@gmail.com)
 
 </div>
 
